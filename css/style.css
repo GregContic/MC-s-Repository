@@ -11,7 +11,7 @@
   letter-spacing: 0.03em;
 }
 a {
-  color: #7447ae;
+  color: #d31144;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -34,7 +34,7 @@ img {
   max-width: 100%;
 }
 .purple {
-  color: #7447ae;
+  color: #d31144;
 }
 .pink {
   color: #ff2a75;
@@ -143,7 +143,7 @@ h1.heading:after {
   width: 100px;
 }
 h1.heading.purple:after {
-  background-color: #7447ae;
+  background-color: #d31144;
 }
 h1.heading.pink:after {
   background-color: #ff2a75;
@@ -281,7 +281,7 @@ h1.heading.pink:after {
 
 /* Contact Banner */
 .contact-banner {
-  background: url(../assets/bg-pat.png) #664fee repeat;
+  background: url(../assets/bg-pat.png) #000000 repeat;
   color: #fff;
   padding: 6em;
 }
